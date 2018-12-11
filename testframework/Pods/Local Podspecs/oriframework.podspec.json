@@ -1,0 +1,20 @@
+{
+  "name": "oriframework",
+  "version": "1.0.0",
+  "summary": "This is local framework.",
+  "description": "Framework made by shama ahlawat",
+  "homepage": "https://github.com/shamaahlawat/oriframework",
+  "license": "MIT",
+  "authors": {
+    "Shama Ahlawat": "shama@oriserve.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://github.com/shamaahlawat/oriframework.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "oriframework/**/*.{h,m}",
+  "swift_version": "4.2"
+}

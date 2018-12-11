@@ -1,0 +1,16 @@
+PODS:
+  - oriframework (1.0.0)
+
+DEPENDENCIES:
+  - oriframework (from `../oriframework/`)
+
+EXTERNAL SOURCES:
+  oriframework:
+    :path: "../oriframework/"
+
+SPEC CHECKSUMS:
+  oriframework: c30faf37f932288e8c19b8a400aca15c89a4e890
+
+PODFILE CHECKSUM: c8fd08a2c538cdf7a50e6769405d56a8ac0bb288
+
+COCOAPODS: 1.5.3
